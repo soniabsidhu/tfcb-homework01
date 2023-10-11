@@ -17,13 +17,13 @@ below is a list
    3. ordered indented sub-list item  
    4. ordered indented sub-list item within the same paragraph
 
-below are a couple of examples of links:
+below are a couple of examples of links:  
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://smittenkitchen.com/ "Smitten Kitchen Food Blog")
 
 below is an image embedded using a local path
-![rhytidoponera_metallica](images/casent0172345_rhytidoponera_metallica.jpg "rhytidoponera_metallica")
+![rhytidoponera_metallica](/images/casent0172345_rhytidoponera_metallica.jpg "rhytidoponera_metallica")
 
 below is an image embedded using a github link to my directory
 ![camponotus_darwinii](https://github.com/soniabsidhu/tfcb-homework01/blob/main/images/casent0191696_camponotus_darwinii.jpg "camponotus_darwinii")
