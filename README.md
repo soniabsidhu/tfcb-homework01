@@ -14,7 +14,9 @@ below is a list
 2. second ordered list item
   * Unordered sub-list
     * Indented unordered sub-list
+    
     1. Indented ordered sub-list
+    2. like this
 
 below are a couple of examples of links:  
 [I'm an inline-style link](https://www.google.com)
