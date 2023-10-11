@@ -12,10 +12,9 @@ i can scratch out words with ~~tildes~~.
 below is a list
 1. first ordered list item
 2. second ordered list item
-  * unordered sub-list item
-   * unordered indented sub-list item  
-   3. ordered indented sub-list item  
-   4. ordered indented sub-list item within the same paragraph
+  * Unordered sub-list
+    * Indented unordered sub-list
+    1. Indented ordered sub-list
 
 below are a couple of examples of links:  
 [I'm an inline-style link](https://www.google.com)
